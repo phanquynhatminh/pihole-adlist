@@ -31,6 +31,6 @@
 0.0.0.0 www.fb88vin.com
 0.0.0.0 fb88vin.com
 0.0.0.0 www.i9bet200.com
-i9bet200.com
-www.i9bet500.com
-i9bet500.com
+0.0.0.0 i9bet200.com
+0.0.0.0 www.i9bet500.com
+0.0.0.0 i9bet500.com
