@@ -34,3 +34,5 @@
 0.0.0.0 i9bet200.com
 0.0.0.0 www.i9bet500.com
 0.0.0.0 i9bet500.com
+0.0.0.0 www.i9bet700.com
+0.0.0.0 i9bet700.com
