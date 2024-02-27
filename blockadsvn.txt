@@ -36,3 +36,12 @@
 0.0.0.0 i9bet500.com
 0.0.0.0 www.i9bet700.com
 0.0.0.0 i9bet700.com
+0.0.0.0 https://tvhay.xyz/ads
+0.0.0.0 https://dinhvu.pro
+0.0.0.0 https://tvhay.xyz/ads/yylive/980x90px.gif
+0.0.0.0 https://tvhay.xyz/ads/dabet/Dabet_728x60.gif
+0.0.0.0 https://tvhay.xyz/ads/tvc/catfish-60.gif
+0.0.0.0 https://tvhay.xyz/ads/dt/i9bet/728-x-60.gif
+0.0.0.0 https://tvhay.xyz/ads/yylive/728x60px.gif
+0.0.0.0 https://dinhvu.pro/tivihay1.js
+0.0.0.0 https://www.googletagmanager.com/gtag/js?id=G-KG5NHBFLYL
